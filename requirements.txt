@@ -3,4 +3,4 @@ pandas
 numpy
 matplotlib
 scikit-learn
-sklearn
+sklearn==0.24.2
